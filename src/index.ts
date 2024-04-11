@@ -1,1 +1,2 @@
-export * from './lib/vulcan.module';
+export * from './lib/components/button/button.component';
+export * from './lib/components/button/button.module';
